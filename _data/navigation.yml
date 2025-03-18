@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Ben kimim"
+    url: https://www.linkedin.com/in/bugramelihyenice/
+  - title: "CTI"
+    url: /cti/ #buraya CTI klasörü gelicek
+  - title: "Network"
+    url: /network/ #buraya network gelicek
+  - title: "Hayattan"
+    url: /hayattan/ #buraya kitap, yorum, hayattan, genel düşnceler vs gelicek
