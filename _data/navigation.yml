@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Ben kimim"
-    url: https://www.linkedin.com/in/bugramelihyenice/
+  - title: "Hakkımda"
+    url: /about/
   - title: "CTI"
     url: /cti/ #buraya CTI klasörü gelicek
   - title: "Network"

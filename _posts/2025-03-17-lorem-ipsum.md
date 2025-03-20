@@ -1,6 +1,8 @@
 ---
 title: "Lorem Ipsum"
 date: 2025-03-17
+author_profile: false
+layout: posts # layoutsdan bakılabilir bana single daha tatlı geldi.
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ullamcorper porttitor urna, quis aliquam enim lacinia at. Sed sollicitudin massa a felis suscipit ullamcorper. In id laoreet velit. Ut a sapien lobortis, cursus dui sit amet, tincidunt dolor. Nam facilisis maximus risus ac consequat. Nam gravida mi libero, a maximus diam iaculis vitae. Aliquam pellentesque lacus quis sem suscipit dignissim vel non justo. Praesent ultricies mollis consectetur. Vestibulum tincidunt bibendum quam nec porttitor. Pellentesque aliquet elit id elit finibus, vel commodo lectus commodo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur velit sem, tincidunt sed quam in, volutpat suscipit lacus. Donec sit amet nunc sapien.

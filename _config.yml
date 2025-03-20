@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Buğra Melih Yenice"
 description              : "Siber güvenlikle alakalı ve siber güvenlikle alakasız içerikler"
-url                      : "https://bugrayenicepage.github.io"
+url                      : "https://bugramelihyenice.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Buğra Melih Yenice"
-  avatar           : "/assets/images/avatar.jpeg"
+  avatar           : #"/assets/images/avatar.jpeg"
   bio              : "Öğrendiklerimi, araştırdıklarımı, yorumlarımı paylaşıyorum."
   location         : "Türkiye"
   email            :
@@ -317,6 +317,7 @@ defaults:
       path: ""
       type: posts
     values:
+      #sitemap: true google ile alakalı sanırsam
       layout: single
       author_profile: true
       read_time: true
